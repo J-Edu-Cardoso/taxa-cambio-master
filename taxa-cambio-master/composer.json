@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-0": {
+            "CurrencyConverter\\": "src"
+        }
+    },
+    "require": {
+        "j4mie/idiorm": "dev-master",
+        "slim/slim": "dev-master"
+    }
+}
